@@ -14,3 +14,5 @@ created repository: YourGithubAccount/new-project
 $ git log
 abfe202 Project Template v0.0.1
 ```
+
+Note: this requires first installing the [Hub library](https://github.com/github/hub/releases).  Bash and Powershell scripts will be provided at some point so as not to require this dependency.
