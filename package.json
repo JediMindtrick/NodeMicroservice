@@ -1,0 +1,23 @@
+{
+  "name": "NodeMicroservice",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node script.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JediMindtrick/NodeMicroservice.git"
+  },
+  "author": "Brandon Wilhite",
+  "bugs": {
+    "url": "https://github.com/JediMindtrick/NodeMicroservice/issues"
+  },
+  "homepage": "https://github.com/JediMindtrick/NodeMicroservice",
+  "dependencies": {
+    "express": "3.4.8",
+    "express-markdown": "0.0.6"
+  }
+}
