@@ -16,3 +16,15 @@ abfe202 Project Template v0.0.1
 ```
 
 Note: this requires first installing the [Hub library](https://github.com/github/hub/releases).  Bash and Powershell scripts will be provided at some point so as not to require this dependency.
+
+To test your service you can use
+```
+npm test
+```
+This will run the script.js file.
+
+To run your service you can use
+```
+npm start
+```
+This will run the server.js file.
